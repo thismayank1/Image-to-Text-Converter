@@ -28,7 +28,5 @@ streamlit run app.py
 
 Upload an image and view the extracted text instantly!
 
-## 📜 License
-MIT License
 
 
